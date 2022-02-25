@@ -8,7 +8,7 @@ const Footer = () => {
     { key: 2, id: '#about', name: 'About' },
     { key: 3, id: '#experience', name: 'Experience' },
     { key: 4, id: '#contact', name: 'Contact' },
-    { key: 5, id: '#resume', name: 'Resume' },
+    { key: 5, id: '#', name: 'Resume' },
   ]
 
   const socials = [
