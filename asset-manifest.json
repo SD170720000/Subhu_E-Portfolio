@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/3hynlY1/static/css/main.2c38a5db.css",
-    "main.js": "/3hynlY1/static/js/main.38231c63.js",
-    "static/media/subhankar_das_resume.pdf": "/3hynlY1/static/media/subhankar_das_resume.04f7d5df87b4af1eb619.pdf",
-    "static/media/subhankar_bag.png": "/3hynlY1/static/media/subhankar_bag.1965ea4558fb5953ecb1.png",
-    "static/media/subhankar_das.png": "/3hynlY1/static/media/subhankar_das.bd6c521faeb87516800b.png",
-    "index.html": "/3hynlY1/index.html",
-    "main.2c38a5db.css.map": "/3hynlY1/static/css/main.2c38a5db.css.map",
-    "main.38231c63.js.map": "/3hynlY1/static/js/main.38231c63.js.map"
+    "main.css": "/Subhu_E-Portfolio/static/css/main.2c38a5db.css",
+    "main.js": "/Subhu_E-Portfolio/static/js/main.837c8ba8.js",
+    "static/media/subhankar_das_resume.pdf": "/Subhu_E-Portfolio/static/media/subhankar_das_resume.04f7d5df87b4af1eb619.pdf",
+    "static/media/subhankar_bag.png": "/Subhu_E-Portfolio/static/media/subhankar_bag.1965ea4558fb5953ecb1.png",
+    "static/media/subhankar_das.png": "/Subhu_E-Portfolio/static/media/subhankar_das.bd6c521faeb87516800b.png",
+    "index.html": "/Subhu_E-Portfolio/index.html",
+    "main.2c38a5db.css.map": "/Subhu_E-Portfolio/static/css/main.2c38a5db.css.map",
+    "main.837c8ba8.js.map": "/Subhu_E-Portfolio/static/js/main.837c8ba8.js.map"
   },
   "entrypoints": [
     "static/css/main.2c38a5db.css",
-    "static/js/main.38231c63.js"
+    "static/js/main.837c8ba8.js"
   ]
 }
